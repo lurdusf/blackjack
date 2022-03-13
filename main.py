@@ -81,7 +81,7 @@ while valid == False:
             bet = int(bet)
             valid = True
     elif bet == "0":
-        print("Damn you broke as hell.")
+        print("Wow, you don't ANY money?")
         time.sleep(1)
         print("I'll let it slide.")
         time.sleep(1)
